@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0cb38e977db4080f2b17d1caba9e4246",
+    "revision": "a21ddddebebcc3a70f8a8c437265ffdf",
     "url": "/my2dportfolio/index.html"
   },
   {
-    "revision": "88b41dc7be6eb95172ac",
+    "revision": "c4bd3a05220775760f27",
     "url": "/my2dportfolio/static/css/main.d93ff38b.chunk.css"
   },
   {
@@ -12,16 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my2dportfolio/static/js/2.8658e905.chunk.js"
   },
   {
-    "revision": "88b41dc7be6eb95172ac",
-    "url": "/my2dportfolio/static/js/main.1c97168b.chunk.js"
+    "revision": "c4bd3a05220775760f27",
+    "url": "/my2dportfolio/static/js/main.0c848327.chunk.js"
   },
   {
     "revision": "3c39f2f932b67f136ebb",
     "url": "/my2dportfolio/static/js/runtime~main.d48daa0d.js"
   },
   {
-    "revision": "87b552be888d1e13b0f31972ab354556",
-    "url": "/my2dportfolio/static/media/cv-x.87b552be.pdf"
+    "revision": "5fbd734ac622e93be0a57ac4513d4c4f",
+    "url": "/my2dportfolio/static/media/cv-x.5fbd734a.pdf"
   },
   {
     "revision": "bae2ba18751a72ec8616d503575acdc4",
