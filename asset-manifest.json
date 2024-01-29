@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my2dportfolio/static/css/main.d93ff38b.chunk.css",
+    "main.js": "/my2dportfolio/static/js/main.1c97168b.chunk.js",
+    "main.js.map": "/my2dportfolio/static/js/main.1c97168b.chunk.js.map",
+    "runtime~main.js": "/my2dportfolio/static/js/runtime~main.d48daa0d.js",
+    "runtime~main.js.map": "/my2dportfolio/static/js/runtime~main.d48daa0d.js.map",
+    "static/js/2.8658e905.chunk.js": "/my2dportfolio/static/js/2.8658e905.chunk.js",
+    "static/js/2.8658e905.chunk.js.map": "/my2dportfolio/static/js/2.8658e905.chunk.js.map",
+    "index.html": "/my2dportfolio/index.html",
+    "precache-manifest.d70bc3e258af9f10c311c8cfed8cf1e2.js": "/my2dportfolio/precache-manifest.d70bc3e258af9f10c311c8cfed8cf1e2.js",
+    "service-worker.js": "/my2dportfolio/service-worker.js",
+    "static/css/main.d93ff38b.chunk.css.map": "/my2dportfolio/static/css/main.d93ff38b.chunk.css.map",
+    "static/media/cv-x.pdf": "/my2dportfolio/static/media/cv-x.87b552be.pdf",
+    "static/media/levi.png": "/my2dportfolio/static/media/levi.bae2ba18.png",
+    "static/media/min.jpg": "/my2dportfolio/static/media/min.831ddfe0.jpg"
+  }
+}
